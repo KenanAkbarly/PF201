@@ -1,0 +1,19 @@
+1.Daxil edilən ədədin tək və ya cüt olduğunu yoxlayan kod yazın.(təkdirsə consola ədəd təkdir,cütdürsə ədəd cütdür çıxdısını verin)
+
+2.İki ədəd daxil edin və onların hansının daha böyük olduğunu göstərən kod yazın.
+
+3.İstiadəçinin yaşına görə qrupunu təyin edən kod yazın.(0-18=>Gənc,18-55=> Orta yaşlı,55dən böyük=>Yaşlı)
+
+4.İstifadəçinin daxil etdiyi rəqəmin 2 və 4-ə bölünən,5-ə bölünməyən rəqəm olduğunu yoxlayan kod yazın
+
+5.Müştərinin aldığı məhsulun qiymətni göstərən kod yazın(swich case)
+Nümunə:Telefon-1000azn,Komputer-1500azn,Televizor-800azn,digər hallarda-məhsul mövcud deyil yazısı consola çıxsın
+
+6.Ədədin kvadratını,kubunu tapan kod yazın.
+
+7.[1,2,3,4,7,9,12,45] listdəki elementlərdən 2-yə bölünən elementleri 3-ə vuraraq yeni bir list yaradın
+
+8.0,1 ədədlərinin fibonacci ardıcıllığı yazın (uzunluq 10)
+
+9.Daxil edilen metni tersden yazan kod yazin
+
