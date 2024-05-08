@@ -16,4 +16,12 @@ Nümunə:Telefon-1000azn,Komputer-1500azn,Televizor-800azn,digər hallarda-məhs
 8.0,1 ədədlərinin fibonacci ardıcıllığı yazın (uzunluq 10)
 
 9.Daxil edilen metni tersden yazan kod yazin
+ 
+<------------------------------------------>
+
+Navigation_8
+Hero header_6
+Pages page_1
+Footers footer_1
+
 
