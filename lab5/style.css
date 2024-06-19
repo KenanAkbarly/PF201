@@ -1,0 +1,98 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    background: rgba(44, 96, 179, 0.953);
+}
+.login input{
+    width: 90%;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid rgb(138, 138, 138);
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#loginBtn{
+    width: 90%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background: rgb(25, 25, 26);
+    cursor: pointer;
+}
+.welcome{
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.welcomeMsg{
+    font-size: 20px;
+    font-weight: 500;
+}
+#logoutBtn{
+   width: 100px;
+   height: 40px;
+   border: none;
+   border-radius: 10px;
+   color: white;
+   background: rgb(25, 25, 26);
+   cursor: pointer;
+   margin-top: 10px;
+}
+
+.box1{
+    width: 300px;
+    height: 300px;
+    background: rgba(44, 96, 179, 0.953);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.box1 input{
+    width: 70%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.box1 button{
+    width: 70%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.box2{
+    width: 300px;
+    height: 300px;
+    background: rgba(179, 60, 44, 0.953);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
